@@ -83,9 +83,9 @@ Experience in **SAP2000, ETABS, Revit and Autodesk Construction Cloud (ACC)**, w
 ## 📜 Certifications
 
 🔹 **Ingeniería Sísmica y Dinámica Estructural**  
-Fractal Studio — 2023  
-📄 [Certificate](https://1drv.ms/b/c/f6570a96a7cb2f79/IQCm3D0jwPeDQo4Tl4emQo79AfLh18kdNxS1cpBeU2uvypY?e=YWdSWC)
-📄 [Certificate](https://1drv.ms/b/c/f6570a96a7cb2f79/IQBNA7oDrjDTRbsUHcjXKSs7ARpXMiExqYgPadg8YjqFJKI?e=LXJsm3)
+Ingenium — 2026
+📄 [Certificate 01](https://1drv.ms/b/c/f6570a96a7cb2f79/IQCm3D0jwPeDQo4Tl4emQo79AfLh18kdNxS1cpBeU2uvypY?e=YWdSWC)
+📄 [Certificate 02](https://1drv.ms/b/c/f6570a96a7cb2f79/IQBNA7oDrjDTRbsUHcjXKSs7ARpXMiExqYgPadg8YjqFJKI?e=LXJsm3)
 
 🔹 **Especialista Modelador Structure – Nivel Profesional**  
 Fractal Studio — 2023  
